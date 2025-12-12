@@ -1,0 +1,6 @@
+transformers==4.36.2
+torch==2.1.2
+gradio==4.14.0
+requests==2.31.0
+numpy==1.26.4
+soundfile==0.12.1
