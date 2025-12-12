@@ -1,4 +1,4 @@
-<h1 align="center">AI Text-to-Speech & Summarizer</h1>
+<h1 align="center">AI Text-to-Speech App</h1>
 
 A compact, multi-language text-to-speech toolkit built with state-of-the-art transformer models. This repository demonstrates how modern AI can convert text into natural-sounding speech in 25+ languages, supporting a wide range of use cases.
 
