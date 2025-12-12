@@ -2,20 +2,6 @@
 import re
 from num2words import num2words
 
-def add_pauses_old(text):
-    """
-    Add pauses in the text for better TTS pronunciation.
-    Keyword arguments:
-        text -- input text
-        Return: modified text with pauses
-    """
-    
-    text = re.sub(r'\n+', '\n\n', text) # paragraph break
-    text = re.sub(r'([.!?])(\s*)', r'\1   ', text) # sentence punctuation
-    text = re.sub(r'([,;:])(\s*)', r'\1  ', text) # mid-sentence punctuation
-
-    return text
-
 def add_pauses(text):
     """
     Add pauses in the text for better TTS pronunciation.
