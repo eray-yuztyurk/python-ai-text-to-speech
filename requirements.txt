@@ -4,3 +4,4 @@ gradio==4.14.0
 requests==2.31.0
 numpy==1.26.4
 soundfile==0.12.1
+num2words==0.5.12
