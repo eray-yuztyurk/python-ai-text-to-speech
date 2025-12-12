@@ -2,27 +2,25 @@
 
 A compact, multi-language text-to-speech and text summarization toolkit built with state-of-the-art transformer models. This repository demonstrates how modern AI can convert text into natural-sounding speech and generate concise summaries, supporting a wide range of languages and use cases.
 
-<table align="center">
-  <tr>
-    <td align="left" width="50%" style="vertical-align: top;">
-      <h3>📑 Table of Contents</h3>
-      <ul>
-        <li><a href="#what-this-does">What this does</a></li>
-        <li><a href="#key-features">Key features</a></li>
-        <li><a href="#how-it-works-high-level">How it works (high level)</a></li>
-        <li><a href="#quick-start">Quick start</a></li>
-        <li><a href="#example-usage">Example usage</a></li>
-        <li><a href="#extending-the-project">Extending the project</a></li>
-        <li><a href="#notes-on-data">Notes on data</a></li>
-        <li><a href="#contributing">Contributing</a></li>
-        <li><a href="#license">License</a></li>
-      </ul>
-    </td>
-    <td align="center" width="50%">
-      <img width="400" alt="tts-demo" src="https://user-images.githubusercontent.com/placeholder/tts-demo.png" />
-    </td>
-  </tr>
-</table>
+---
+<p align="center">
+  <img width="1000" alt="tts-demo" src="https://github.com/user-attachments/assets/8fbc8571-c75b-4ce4-b684-d45191564e5f" />
+</p>
+
+----
+
+<h3>📑 Table of Contents</h3>
+<ul>
+  <li><a href="#what-this-does">What this does</a></li>
+  <li><a href="#key-features">Key features</a></li>
+  <li><a href="#how-it-works-high-level">How it works (high level)</a></li>
+  <li><a href="#quick-start">Quick start</a></li>
+  <li><a href="#example-usage">Example usage</a></li>
+  <li><a href="#extending-the-project">Extending the project</a></li>
+  <li><a href="#notes-on-data">Notes on data</a></li>
+  <li><a href="#contributing">Contributing</a></li>
+  <li><a href="#license">License</a></li>
+</ul>
 
 ---
 
